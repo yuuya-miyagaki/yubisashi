@@ -1,0 +1,12 @@
+{
+  "name": "yubisashi",
+  "description": "宮垣の自作 Mod「指差し（yubisashi）」の配り場",
+  "owner": { "name": "Yuuya Miyagaki" },
+  "plugins": [
+    {
+      "name": "yubisashi",
+      "source": "./",
+      "description": "指差し：ブラウザで部品を選んで一言書くと、住所・見た目の値・ファイル候補つきで UI の直しを Claude に頼める（/yubi）"
+    }
+  ]
+}

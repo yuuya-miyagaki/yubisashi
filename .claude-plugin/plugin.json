@@ -1,0 +1,8 @@
+{
+  "name": "yubisashi",
+  "version": "0.5.1",
+  "description": "指差し：ブラウザで部品を選んで一言書くと、住所・見た目の値・ファイル候補つきで UI の直しを頼める（大きさ・間隔・位置・色はブラウザで決められる。/yubi だけで選べる・/yubi 3000・/yubi ./site・file:/// も可・/yubi 止める）",
+  "author": {
+    "name": "Yuuya Miyagaki"
+  }
+}
